@@ -6,4 +6,4 @@ while cont <= 10:
     if maior < num:
         maior = num
     cont +=1
-print (maior)
+print ("O maior número foi", maior)
